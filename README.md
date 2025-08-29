@@ -182,3 +182,36 @@ Identify who does what in the system.
 
 Serve as a blueprint for functional requirements.
 
+# Acceptance Criteria:
+Acceptance Criteria are the conditions that a software product must meet to be accepted by the client, user, or stakeholder. They are written as clear, testable statements that define “done” for a requirement or user story.
+1. Ensures Clear Understanding
+
+Removes ambiguity by telling developers exactly what needs to be delivered.
+
+Example: Instead of saying “The system should be fast”, the AC would say:
+
+“The system should return search results within 2 seconds for up to 1,000 users.”
+
+2. Acts as a Communication Tool
+
+Bridges the gap between stakeholders, developers, and testers.
+
+Everyone knows what “success” looks like for a feature.
+
+3. Supports Testing & Validation
+
+QA/testers use AC to create test cases.
+
+If the software meets all AC → requirement is considered done & validated.
+
+4. Prevents Scope Creep
+
+AC sets boundaries for features.
+
+Developers won’t add extra functionality that wasn’t agreed on.
+
+5. Improves Customer Satisfaction
+
+Stakeholders sign off on AC before development starts.
+
+This ensures the delivered product meets actual business needs.
