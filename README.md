@@ -171,6 +171,8 @@ Security: All transactions must be encrypted using SSL.
 Usability: The app should be easy to use with no more than 3 steps to checkout.
 
 # Use Case Diagrams
+https://github.com/rahmakorish/requirement-analysis/blob/main/alx-booking-uc.png.png
+
 A Use Case Diagram is a visual representation used in UML (Unified Modeling Language) to show how users (actors) interact with a system.
 Why Use Case Diagrams are Important
 
