@@ -137,5 +137,48 @@ Stakeholders test a prototype of the ordering screen and confirm it matches what
 
 Ambiguous requirement like “system should be fast” is clarified to: “Response time ≤ 2 seconds.”
 
+# Types of Requirements:
+1. Functional Requirements (FR)
 
+Define what the system should do (features, functions, behaviors).
+
+Focus on specific actions or tasks the software must perform.
+
+Usually written as "The system shall..." statements.
+
+Examples (Food Delivery App):
+
+The system shall allow users to create an account.
+
+The system shall allow users to search restaurants by location.
+
+The system shall send an order confirmation email.
+
+2. Non-Functional Requirements (NFR)
+
+Define how the system should work (quality attributes, constraints).
+
+They don’t describe specific features but affect user experience and performance.
+
+Examples:
+
+Performance: The system shall process payments within 2 seconds.
+
+Scalability: The system shall support 10,000 concurrent users.
+
+Security: All transactions must be encrypted using SSL.
+
+Usability: The app should be easy to use with no more than 3 steps to checkout.
+
+# Use Case Diagrams
+A Use Case Diagram is a visual representation used in UML (Unified Modeling Language) to show how users (actors) interact with a system.
+Why Use Case Diagrams are Important
+
+Show system scope clearly.
+
+Help developers & stakeholders understand requirements visually.
+
+Identify who does what in the system.
+
+Serve as a blueprint for functional requirements.
 
